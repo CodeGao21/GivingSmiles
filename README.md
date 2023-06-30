@@ -1,6 +1,6 @@
 # GivingSmiles
 
-Giving Smiles is web app that seeks to promote social tourism in Colombia by providing clients with experiences around Bogota that focus on tourism that positively impacts people and the environment through alliances with local foundations and NGOs.
+Web platform development for the startup that seeks to encourage volunteering and social impact in Colombia through an embroidery marketplace.
 
 Check out going to: 
 voluntur.com
